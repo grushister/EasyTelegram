@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\bin\Debug\netstandard2.0\EasyTelegramBeta.deps.json
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\bin\Debug\netstandard2.0\EasyTelegramBeta.dll
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\EasyTelegramBeta.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\EasyTelegramBeta.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\EasyTelegramBeta.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\EasyTelegramBeta.AssemblyInfo.cs
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\bin\Debug\netstandard2.0\EasyTelegramBeta.pdb
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\EasyTelegramBeta.dll
+C:\Users\User\source\repos\EasyTelegramBeta\EasyTelegramBeta\EasyTelegramBeta\obj\Debug\netstandard2.0\EasyTelegramBeta.pdb

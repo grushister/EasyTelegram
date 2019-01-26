@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:EasyTelegramBeta"
+             x:Class="EasyTelegramBeta.MainPage">
+
+    <StackLayout>
+        <Entry x:Name="EntryOne" Placeholder="Токен вашего бота" PlaceholderColor="LightGray"></Entry>
+        <Entry x:Name="EntryTwo" Placeholder="Id получателя"  PlaceholderColor="LightGray"></Entry>
+        <Entry x:Name="EntryThree" Placeholder="Текст вашего сообщения"  PlaceholderColor="LightGray"></Entry>
+        <Button Text="Отправить" Clicked="Button_Clicked" BackgroundColor="Orange" TextColor="White"></Button>
+    </StackLayout>
+
+</ContentPage>
