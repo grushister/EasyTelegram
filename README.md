@@ -1,2 +1,2 @@
 # EasyTelegram
-My work to the Ukrainian contest "Vesela Nauka". Writen in C# using Xamarin.Forms and TelegramBotAPI. This is an Android app.
+Simple app, built on Xamarin, it allows user to send message via Telegram Bot using its token and user's id.
